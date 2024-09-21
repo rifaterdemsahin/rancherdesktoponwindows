@@ -1,4 +1,4 @@
-# Initial Starters
+# Initial Starters Windows
 kubectl version --client	
 kubectl config get-contexts
 
