@@ -3,3 +3,4 @@ choco install docker-desktop -y
 choco install notepadplusplus -y
 choco install vscode -y
 choco install rancher-desktop -y
+choco install git.install -y
