@@ -24,5 +24,5 @@
 # GPT Install WSL
 ![image](https://github.com/user-attachments/assets/ded9569d-8c46-49fd-b850-3f0ad46e5ae5)
 
-# Virtualization Envrionment Setup
+# Virtualization Envrionment Setup ( Check the boxes )
 ![image](https://github.com/user-attachments/assets/9447f038-d431-4e57-9f70-ac759da6bdf1)
