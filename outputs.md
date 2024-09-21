@@ -55,7 +55,7 @@
 # Pod Logging
 ![image](https://github.com/user-attachments/assets/198e2fea-c616-4295-a1ec-eb1d7a8b6904)
 ![image](https://github.com/user-attachments/assets/322abc4d-4826-4eda-9024-704087e56846)
-
+![image](https://github.com/user-attachments/assets/e08d51b3-436c-4fee-9195-7605d338020e)
 
 
 
