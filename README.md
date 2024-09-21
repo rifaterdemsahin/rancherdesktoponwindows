@@ -1,4 +1,3 @@
-```markdown
 # Rancher Desktop and Kubernetes Setup on Windows 11
 
 Clone Repo
@@ -100,6 +99,5 @@ Feel free to reach out if you have any questions or encounter any issues!
   - [GitHub](https://github.com/rifaterdemsahin)
 
 Happy coding! 🚀
-```
 
 This README provides a structured overview of the installation and configuration steps for Rancher Desktop and Kubernetes on Windows 11. Let me know if you'd like to add or change anything!
