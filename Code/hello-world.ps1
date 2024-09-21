@@ -7,3 +7,4 @@
 
 >>> If the EXTERNAL-IP is <pending> for too long:
 kubectl expose deployment hello-world --type=NodePort --port=8080
+http://<Node-IP>:<NodePort>
