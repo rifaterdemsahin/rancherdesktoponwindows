@@ -1,6 +1,10 @@
 # Setup
 Install-WindowsFeature -Name Microsoft-Windows-Subsystem-Linux
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+
+
 # Restart
 wsl --set-default-version 2
 Add-AppxPackage .\Ubuntu_2004.2021.825.0_x64.appx
