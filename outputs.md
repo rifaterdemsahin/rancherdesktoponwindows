@@ -35,3 +35,6 @@
 
 # Online Distros 
 ![image](https://github.com/user-attachments/assets/7053604d-5dd7-43d5-bf22-08e104331f9d)
+
+# Cluster Management not in Containers
+![image](https://github.com/user-attachments/assets/c381dd36-0c98-4ad2-b205-a3e9b7c14c52)
