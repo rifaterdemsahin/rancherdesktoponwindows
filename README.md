@@ -2,6 +2,8 @@
 
 Clone Repo
    ```
+mkdir projects
+cd projects
 git clone git@github.com:rifaterdemsahin/rancherdesktoponwindows.git
    ```
 ## Introduction
