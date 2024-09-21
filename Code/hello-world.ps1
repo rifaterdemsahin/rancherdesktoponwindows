@@ -13,6 +13,6 @@ kubectl expose deployment hello-world --type=NodePort --port=8080
 http://<Node-IP>:<NodePort>
 
 
-
+# Diagnose
 kubectl describe pod <pod-name>
 kubectl logs <pod-name>
