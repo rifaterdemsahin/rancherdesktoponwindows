@@ -58,6 +58,12 @@
 ![image](https://github.com/user-attachments/assets/e08d51b3-436c-4fee-9195-7605d338020e)
 
 
+# Firewall Rules
+![image](https://github.com/user-attachments/assets/927337b9-7d70-4726-b2be-51f46eebf35d)
+![image](https://github.com/user-attachments/assets/a0badf97-1e9e-4c26-8695-06692b9212bd)
+
+
+
 
 
 
