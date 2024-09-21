@@ -16,3 +16,4 @@ http://<Node-IP>:<NodePort>
 # Diagnose
 kubectl describe pod <pod-name>
 kubectl logs <pod-name>
+kubectl get nodes -o wide
