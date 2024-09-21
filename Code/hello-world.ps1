@@ -17,3 +17,7 @@ http://<Node-IP>:<NodePort>
 kubectl describe pod <pod-name>
 kubectl logs <pod-name>
 kubectl get nodes -o wide
+
+# Firewall Rules and Network Access
+# If you're running Kubernetes locally or on a restricted network, ensure that the firewall is 
+# open on the NodePort range (usually between 30000-32767) and that port 30837 is accessible from your client machine.
