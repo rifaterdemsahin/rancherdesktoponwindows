@@ -45,3 +45,7 @@
 # Rancher LoadBalancer IP
 ![image](https://github.com/user-attachments/assets/7147ab0a-1c3d-4ec4-a439-96582a84cead)
 
+# WSL Kubectl Install
+![image](https://github.com/user-attachments/assets/8b7d73b8-30e7-414a-9bd2-e189af83a8da)
+
+
