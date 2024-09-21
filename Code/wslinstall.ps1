@@ -27,6 +27,8 @@ wsl --list --verbose
 wsl --set-version Ubuntu 2
 
 
+# Online Distros
+wsl --list --online
 
 # ShutDown
 wsl --shutdown
