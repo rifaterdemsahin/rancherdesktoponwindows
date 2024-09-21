@@ -2,11 +2,15 @@
 Install-WindowsFeature -Name Microsoft-Windows-Subsystem-Linux
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+wsl --install -d Ubuntu-24.04
 
 
 
 # Restart
 wsl --set-default-version 2
+
+# Manual Install 
+https://learn.microsoft.com/en-us/windows/wsl/install-manual
 Add-AppxPackage .\Ubuntu_2004.2021.825.0_x64.appx
 wsl -l -v
 
