@@ -26,3 +26,6 @@
 
 # Virtualization Envrionment Setup ( Check the boxes )
 ![image](https://github.com/user-attachments/assets/9447f038-d431-4e57-9f70-ac759da6bdf1)
+
+# Ubuntu Install 
+![image](https://github.com/user-attachments/assets/deacea36-b6be-4a7b-91d2-608846d30511)
