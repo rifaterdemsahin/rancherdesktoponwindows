@@ -6,5 +6,7 @@
 
 
 >>> If the EXTERNAL-IP is <pending> for too long:
+kubectl delete svc hello-world
+kubectl get svc
 kubectl expose deployment hello-world --type=NodePort --port=8080
 http://<Node-IP>:<NodePort>
