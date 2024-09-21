@@ -1,8 +1,18 @@
 # Components
 ![image](https://github.com/user-attachments/assets/cbc79bf6-1184-4c44-a4c6-1659126246b1)
 
+# Install And Start
+![image](https://github.com/user-attachments/assets/5d0c5b4d-86e8-4d7b-b521-e6f45922836d)
+
+# Desktop Load
+![image](https://github.com/user-attachments/assets/a8b59018-091b-4d02-bfd3-87653ca25ca7)
+
+
 # Rancher Desktop Install
 ![image](https://github.com/user-attachments/assets/421d2912-1cd6-4062-8714-728e9f83f75a)
+
+# Rancher with KubeConfig
+![image](https://github.com/user-attachments/assets/38caf9ca-f0e7-4fb7-908b-970e71400d1f)
 
 
 # Initial Container
