@@ -1,3 +1,6 @@
+# Components
+![image](https://github.com/user-attachments/assets/cbc79bf6-1184-4c44-a4c6-1659126246b1)
+
 # Rancher Desktop Install
 ![image](https://github.com/user-attachments/assets/421d2912-1cd6-4062-8714-728e9f83f75a)
 
