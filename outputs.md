@@ -20,3 +20,6 @@
 
 # Kubernetes Dashboard
 ![image](https://github.com/user-attachments/assets/bc60d08e-f702-4a8d-b76c-f028562ac7d1)
+
+# GPT Install WSL
+![image](https://github.com/user-attachments/assets/ded9569d-8c46-49fd-b850-3f0ad46e5ae5)
