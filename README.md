@@ -1,6 +1,10 @@
 ```markdown
 # Rancher Desktop and Kubernetes Setup on Windows 11
 
+Clone Repo
+   ```
+git clone git@github.com:rifaterdemsahin/rancherdesktoponwindows.git
+   ```
 ## Introduction
 
 This repository contains a step-by-step guide to installing **Rancher Desktop** and setting up **Kubernetes** on Windows 11. Rancher Desktop is a versatile tool that integrates container management with Kubernetes, making it easier to run Kubernetes clusters locally.
