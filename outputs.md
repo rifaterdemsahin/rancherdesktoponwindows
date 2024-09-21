@@ -32,3 +32,6 @@
 
 # WSL List After Rancher
 ![image](https://github.com/user-attachments/assets/d0f7b3f0-aaf9-4304-b192-7fe63f72a3cb)
+
+# Online Distros 
+![image](https://github.com/user-attachments/assets/7053604d-5dd7-43d5-bf22-08e104331f9d)
