@@ -7,6 +7,9 @@ Add-AppxPackage .\Ubuntu_2004.2021.825.0_x64.appx
 wsl -l -v
 
 
+wsl --install -d Ubuntu
+
+
 
 # Updates
 wsl --update
