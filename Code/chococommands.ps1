@@ -2,3 +2,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install docker-desktop -y
 choco install notepadplusplus -y
 choco install vscode -y
+choco install rancher-desktop -y
