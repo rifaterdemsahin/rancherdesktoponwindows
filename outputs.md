@@ -49,6 +49,11 @@
 ![image](https://github.com/user-attachments/assets/8b7d73b8-30e7-414a-9bd2-e189af83a8da)
 ![image](https://github.com/user-attachments/assets/f7281f4c-a16c-4ef3-88a1-b9f46c4f25db)
 
+# Network in Rancher over WSL
+![image](https://github.com/user-attachments/assets/f5985aac-2ea5-4f9c-93f3-f7d2e881aa4c)
+
+
+
 
 
 
