@@ -1,6 +1,8 @@
 # Setup
 Install-WindowsFeature -Name Microsoft-Windows-Subsystem-Linux
+# Restart
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+# Restart
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 wsl --install -d Ubuntu-24.04
 
