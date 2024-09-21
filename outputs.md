@@ -52,6 +52,11 @@
 # Network in Rancher over WSL
 ![image](https://github.com/user-attachments/assets/f5985aac-2ea5-4f9c-93f3-f7d2e881aa4c)
 
+# Pod Logging
+![image](https://github.com/user-attachments/assets/198e2fea-c616-4295-a1ec-eb1d7a8b6904)
+![image](https://github.com/user-attachments/assets/322abc4d-4826-4eda-9024-704087e56846)
+
+
 
 
 
