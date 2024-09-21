@@ -29,3 +29,6 @@
 
 # Ubuntu Install 
 ![image](https://github.com/user-attachments/assets/deacea36-b6be-4a7b-91d2-608846d30511)
+
+# WSL List After Rancher
+![image](https://github.com/user-attachments/assets/d0f7b3f0-aaf9-4304-b192-7fe63f72a3cb)
