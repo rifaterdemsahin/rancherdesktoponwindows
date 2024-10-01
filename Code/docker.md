@@ -1,5 +1,3 @@
-Here is a simple `Docker Basics` guide in markdown format, including steps to create a "Hello World" Docker app.
-
 ```markdown
 # Docker Basics
 
@@ -140,5 +138,3 @@ If you want to remove unused Docker images and containers, you can use:
 
 Docker is a powerful tool for creating, deploying, and managing containers. In this guide, we walked through the basics of Docker, from installation to running a simple "Hello World" application. Docker helps you encapsulate your applications and their dependencies into containers, making development more streamlined and deployment more consistent.
 ```
-
-You can save this content into a `.md` file to use as a markdown guide for Docker basics.
